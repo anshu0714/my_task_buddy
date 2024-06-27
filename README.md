@@ -63,3 +63,10 @@ The project includes various pages and components:
 - Feedback Page
 - Settings Page
 - Notification Service
+
+### Technologies Involved
+- Dart
+- Flutter
+- Android Studio
+- Local Storage
+- Third-party SDKs
