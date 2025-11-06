@@ -70,3 +70,6 @@ The project includes various pages and components:
 - Android Studio
 - Local Storage
 - Third-party SDKs
+
+### Note:
+- You may need to resolve version issues if encountered.
