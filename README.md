@@ -4,6 +4,10 @@
 ### Overview
 "My Task Buddy" is an Android application designed to help users manage their tasks efficiently. It provides features for task management, user authentication, settings customization, and more.
 
+### Project Presentation
+You can view the presentation here:  
+🔗 [My Task Buddy Presentation (Google Drive)](https://drive.google.com/file/d/1K3vi2KNaz-CxjzoZOTngOrITSG8XpGjG/view?usp=drive_link)
+
 ### Features
 
 #### User Authentication:
